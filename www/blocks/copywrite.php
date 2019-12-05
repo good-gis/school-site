@@ -1,0 +1,1 @@
+		<div id="copywriteblock"> Разработчик <a href="http://www.vk.com/good_gis/"> Глушков Иван </a></div>
